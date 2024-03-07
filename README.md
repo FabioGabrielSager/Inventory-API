@@ -1,6 +1,8 @@
 # TPI. Microservicio Inventario. API.
 
-Este proyecto es parte del Trabajo Práctico Integrador (TPI) realizado durante el año 2023, de las asignaturas Laboratorio de Computación IV, Programación IV y Metodología de Sistemas de la carrera "Tecnicatura Universitaria en Programación" de la "Universidad Tecnológica Nacional - Facultad Regional Córdoba". En este marco colaboramos en la elaboración de una aplicación para la administración de una ferretería basada en microservicios. Nuestro grupo se encargó del diseño y desarrollo del módulo de inventario, el cual debía integrarse con los demás módulos, principalmente con compras y ventas.
+Este proyecto es parte del Trabajo Práctico Integrador (TPI) realizado durante el año 2023, de las asignaturas Laboratorio de Computación IV, Programación IV y Metodología de Sistemas de la carrera "Tecnicatura Universitaria en Programación" de la "Universidad Tecnológica Nacional - Facultad Regional Córdoba". 
+
+En este marco colaboramos en la elaboración de una aplicación para la administración de una ferretería basada en microservicios. Nuestro grupo se encargó del diseño y desarrollo del módulo de inventario, el cual debía integrarse con los demás módulos, principalmente con compras y ventas.
 
 Los microservicios en los que se dividio la aplicación fueron:
 - Compras.
