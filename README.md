@@ -30,7 +30,7 @@ Dicho esto, los colaboradores en la elaboración de este proyecto fueron:
 - [Julian Magnabosco](https://www.linkedin.com/in/julian-magnabosco-675631258/).
 - [Santiago Perez Orcellet](https://github.com/PerezOrcelletSantiago).
 - [Martin Maciel Bramoso](https://github.com/MartinMacielBramoso).
-- Fabio Sager.
+- [Fabio Sager](https://github.com/113943-Sager-Fabio).
 
 ## Como correr?
 Debido a que se trata de una aplicación multi-contenedor, es necesario contar con docker compose.
