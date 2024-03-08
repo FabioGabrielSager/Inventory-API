@@ -34,5 +34,6 @@ Dicho esto, los colaboradores en la elaboración de este proyecto fueron:
 
 ## Como correr?
 Debido a que se trata de una aplicación multi-contenedor, es necesario contar con docker compose.
-1. Ir al directorio .compose `cd .compose`.
-2. Levantar compose `sudo docker compose up`.
+1. Empaquetar aplicación `mvn clean package`.
+2. Ir al directorio .compose `cd .compose`.
+3. Levantar compose `sudo docker compose up`.
