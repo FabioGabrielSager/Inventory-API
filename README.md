@@ -20,6 +20,8 @@ En la materia Programación se trabajó el diseño y elaboración de la interfaz
 
 **Este repositorio contiene el proyecto realizado en esta última materia.**
 
+## Colaboradores.
+
 > [!IMPORTANT]
 > Este no es el repositorio original del proyecto. El repositorio original es controlado por la institución educativa, y aún no he logrado que se haga público. Dada esta situación, he decidido resubir a este repositorio lo trabajado.
 
@@ -29,3 +31,8 @@ Dicho esto, los colaboradores en la elaboración de este proyecto fueron:
 - [Santiago Perez Orcellet](https://github.com/PerezOrcelletSantiago).
 - [Martin Maciel Bramoso](https://github.com/MartinMacielBramoso).
 - Fabio Sager.
+
+## Como correr?
+Debido a que se trata de una aplicación multi-contenedor, es necesario contar con docker compose.
+1. Ir al directorio .compose `cd .compose`.
+2. Levantar compose `sudo docker compose up`.
