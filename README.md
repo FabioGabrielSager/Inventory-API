@@ -12,7 +12,7 @@ Los modulos en los que se dividio la aplicación fueron:
 - Catálogo.
 - Facturas.
 
-En la materia Metodología de Sistemas se trabajó la identificación de procesos, el análisis del problema, la propuesta de mejoras, el diseño del sistema de información y el abordaje del proyecto a través de la metodología ágil scrum. Puede encontrar la documentación de dicho proceso en el siguiente link: [documentación](https://drive.google.com/file/d/1-04_YOrAT9Px5gMOe6Y7WVJ5d6BjOsvh/view?usp=sharing).
+En la materia Metodología de Sistemas se trabajó la identificación de procesos, el análisis del problema, la propuesta de mejoras, el diseño del sistema de información y el abordaje del proyecto a través de la metodología ágil scrum. Puede encontrar la documentación de dicho proceso en el siguiente link: [documentación](https://drive.google.com/file/d/1fl9J-mXspoNWC8wdV1BVDUvrWEfThPf7/view?usp=sharing).
 
 En la materia Programación se trabajó el diseño y elaboración de la interfaz gráfica web que consume dicho microservicio, haciendo uso principalmente de los frameworks Angularjs y Bootstrap. Debido a falta de tiempo y coordinación, la interfaz lograda no fue muy compleja, razón por la cual actualmente me encuentro en proceso de mejorarla.
 
